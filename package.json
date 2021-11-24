@@ -5,6 +5,7 @@
   "bin": {
     "aneeq-cli-alerts": "index.js"
   },
+  "type": "module",
   "scripts": {
     "test": "node test.js"
   },
@@ -27,5 +28,10 @@
     "aneeqkhurram007",
     "aneeq-cli-alerts",
     "cli-alerts"
-  ]
+  ],
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "cli-handle-unhandled": "^1.1.1",
+    "log-symbols": "^5.0.0"
+  }
 }
