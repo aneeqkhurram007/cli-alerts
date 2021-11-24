@@ -1,4 +1,5 @@
 {
   "name": "aneeq-cli-alerts",
-  "description": "Node CLI alerts developerd by Aneeq Khurram"
+  "description": "Node CLI alerts developerd by Aneeq Khurram",
+  "version": "1.0.0"
 }
