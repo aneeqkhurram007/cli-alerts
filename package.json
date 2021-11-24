@@ -1,5 +1,31 @@
 {
   "name": "aneeq-cli-alerts",
   "description": "Node CLI alerts developerd by Aneeq Khurram",
-  "version": "1.0.0"
+  "version": "1.0.0",
+  "bin": {
+    "aneeq-cli-alerts": "index.js"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "directory": "aneeqkhurram007/cli-alerts",
+    "url": "https://github.com/aneeqkhurram007/cli-alerts"
+  },
+  "author": {
+    "name": "Aneeq Khurram",
+    "email": "aneeqkhurram007@yahoo.com",
+    "url": "https://github.com/aneeqkhurram007"
+  },
+  "license": "MIT",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "readme": "Readme.md",
+  "keywords": [
+    "aneeqkhurram007",
+    "aneeq-cli-alerts",
+    "cli-alerts"
+  ]
 }
